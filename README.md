@@ -2,9 +2,9 @@
 
 Rest Full Api para ruletas de apuesta.
 
-_Get all the roulettes 
-_Get roulettes by id
-_Post a new roulette
+- Get all the roulettes 
+- Get roulettes by id
+- Post a new roulette
 
 Se realizo la configuración de puertos para la base de datos Redis
 
